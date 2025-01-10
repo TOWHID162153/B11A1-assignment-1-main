@@ -178,12 +178,29 @@ nav ul li a{
        
 .banner-main{
   display: flex;
-  height: 560px;
+  justify-content: space-between;
   margin: 20px 160px;
+  padding:  117px 59.99px;
   background-color: #C6E4D6;
   border-radius: 24px;
 }
+.banner-content{
+  width: 622px;
+  height: 326px;
+}
+.banner-greetings{
+  font-size: 24px;
 
+}
+.banner-title{
+  font-size: 56px;
+
+}
+.banner-dp{
+  width: 474.03px;
+  height: 400px;
+
+}
 
 
 
