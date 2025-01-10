@@ -133,14 +133,15 @@
   color: #0E0E0E;
   opacity: 50%;
 }
+
 /* --# Share class - part finished #--  */
 body{
-  background-color: grey;
+  background-color: #F5F5F5;
 }
 
 /* --# Header - part start #--  */
   /* --# nav - part start #--  */
-.nav-tatle{
+.nav-title{
     color: #0E0E0E;
     font-weight: bold;
     font-size: 32px;
@@ -180,7 +181,7 @@ nav ul li a{
   display: flex;
   justify-content: space-between;
   margin: 20px 160px;
-  padding:  117px 59.99px;
+  padding: 117px 59.99px;
   background-color: #C6E4D6;
   border-radius: 24px;
 }
@@ -201,7 +202,35 @@ nav ul li a{
   height: 400px;
 
 }
-
-
-
 /* --# Header - part finish #--  */
+
+/* .pillars{
+
+} */
+.pillars-main{
+  display: flex;
+  justify-content: space-between;
+}
+.pillars-main-title{
+  font-size: 40px;
+}
+.pillars-content{
+  width: 302px;
+  height: 244;
+  justify-content: space-around;
+  margin: 0px;
+  padding: 24px;
+  background-color: #FFFFFF;
+  border: 1px #0e0e0e15 solid;
+  border-radius: 16px;
+}
+.card-img-style{
+  height: 64px;
+  width: 64;
+}
+.pillars-item-title{
+  font-size: 20px;
+}
+.pillars-item-discription{
+  font-size: 16px;
+}
