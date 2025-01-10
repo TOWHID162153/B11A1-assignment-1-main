@@ -116,10 +116,43 @@
 
 
 /* --# Share class - part start #--  */
-
+.btn-primary{
+    width: 270px;
+    height: 56px;
+    font-weight: 600;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    background-color: #006A50;
+    color: white;
+}
 /* --# Share class - part finished #--  */
-
-
+.nav-tatle{
+    color: #0E0E0E;
+    font-weight: bold;
+    font-size: 32px;
+}
+.sing-in-btn{
+    width: 116px;
+    height: 52px;
+    font-weight: 600;
+    font-size: 18px;
+    border: 1px #006A50 solid;
+    border-radius: 8px;
+    background-color: white;
+    color: #006A50;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 24px 160px;
+}
+nav ul li{
+    list-style: none;
+}
+nav ul li a{
+    text-decoration: none;
+}
 
 
 /* --# Header - part start #--  */
