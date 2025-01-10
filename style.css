@@ -116,7 +116,7 @@
 
 
 /* --# Share class - part start #--  */
-.btn-primary{
+.btn-primary-gree{
     width: 270px;
     height: 56px;
     font-weight: 600;
@@ -126,9 +126,17 @@
     background-color: #006A50;
     color: white;
 }
-
+.black-01{
+  color: #0E0E0E;
+}
+.light-black-02{
+  color: #0E0E0E;
+  opacity: 50%;
+}
 /* --# Share class - part finished #--  */
-
+body{
+  background-color: grey;
+}
 
 /* --# Header - part start #--  */
   /* --# nav - part start #--  */
@@ -159,6 +167,22 @@ nav ul li a{
     text-decoration: none;
 }
   /* --# nav - part finish #--  */
+  
+          /* width: 116px;
+          height: 52px;
+          font-weight: 600;
+          font-size: 18px; */
+          /* font-family: skip
+          font-weight: skip
+          font-style: skip */
+       
+.banner-main{
+  display: flex;
+  height: 560px;
+  margin: 20px 160px;
+  background-color: #C6E4D6;
+  border-radius: 24px;
+}
 
 
 
