@@ -126,7 +126,12 @@
     background-color: #006A50;
     color: white;
 }
+
 /* --# Share class - part finished #--  */
+
+
+/* --# Header - part start #--  */
+  /* --# nav - part start #--  */
 .nav-tatle{
     color: #0E0E0E;
     font-weight: bold;
@@ -153,8 +158,9 @@ nav ul li{
 nav ul li a{
     text-decoration: none;
 }
+  /* --# nav - part finish #--  */
 
 
-/* --# Header - part start #--  */
+
 
 /* --# Header - part finish #--  */
